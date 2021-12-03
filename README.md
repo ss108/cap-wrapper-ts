@@ -1,0 +1,1 @@
+A tastefully over-engineered API wrapper for the [Caselaw Access Project](https://case.law/).
